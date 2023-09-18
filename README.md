@@ -1,7 +1,7 @@
 # Data Science Master's Final Project
 
-(https://github.com/tanguydavoust/easyMoney-Capstone-Project/blob/main/images/easyMoney-Logo.png)
- 
+![easyMoney Logo](https://github.com/tanguydavoust/easyMoney-Capstone-Project/raw/main/images/easyMoney-Logo.png)
+
  ## Introduction
 
 Welcome to my Data Science Master's final project, completed as part of my studies at Nuclio School. In this project, I aim to showcase my understanding of the concepts learned during the program and apply them to a real-world scenario. The project involves an in-depth analysis of the fintech company "easyMoney," providing insights and recommendations to address its current challenges.
